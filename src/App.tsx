@@ -37,6 +37,7 @@ function App() {
 			setIsAnimating(false);
 		}, 300);
 	};
+	console.log('HELLO');
 	return (
 		<div style={{ width: '100%' }}>
 			<Tabs
